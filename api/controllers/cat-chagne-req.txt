@@ -1,0 +1,10 @@
+Change category
+Send change request
+Cancel
+Request sent successfully.
+Changes will be reflected post admin verification
+
+Change your Email address
+Enter new email address you would like to associate with your account below. we will send One Time Password ( OTP ) to that address.
+New email address
+Continue
